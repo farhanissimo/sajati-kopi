@@ -13,7 +13,7 @@
 
 <nav class="navbar navbar-expand-lg sticky-top shadow-sm" style="background-color: #F3E5D8;">
     <div class="container">
-        <a class="navbar-brand" href="Home.php">
+        <a class="navbar-brand" href="index.php">
             <img src="images/Logo.png" alt="Logo" height="60">
         </a>
 
